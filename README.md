@@ -4,7 +4,7 @@ I have developed an emotional chatbot that will have a conversation with users b
 
 To execute this code, place both chatbox.py and the associated templates file into the same directory. Run chatbox.py, then access the website by navigating to the URL http://127.0.0.1:5000 displayed in the terminal.
 
-<img width="341" alt="Text-based model" src="https://github.com/user-attachments/assets/1399067a-5e0b-47a5-9530-c8dc69485f27">
+![Text-based model](https://github.com/user-attachments/assets/e40ab7e2-d7f7-4b65-86f5-1f148a3ab9a7)
 
 # Audio-based emotional analysis model
 I have developed an audio-based emotional detection website. Once users click the start recording button, a random picture will appear and users will have ten seconds to describe what happens in the picture. Users can check whether their voices are being recorded by seeing the voice visualization on the website. After ten seconds finish, the predicted emotion with the confidence rate will be shown. The final emotion will be either one of the seven emotions listed (happy, anger, disgust, fear, neutral, sadness, and surprise).
